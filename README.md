@@ -1,3 +1,5 @@
+![NSP-Core Banner](./assets/banner.png)
+
 # 🧬 The-New-Science-Philosophy (NSP-Core)
 
 [![License: Virtuous-Open-Source](https://img.shields.io/badge/License-Hanif--1.0-emerald.svg)](LICENSE.md)
